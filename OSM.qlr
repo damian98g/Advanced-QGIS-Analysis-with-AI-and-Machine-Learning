@@ -1,0 +1,2779 @@
+<!DOCTYPE qgis-layer-definition>
+<qlr>
+  <layer-tree-group name="" groupLayer="" checked="Qt::Checked" expanded="1">
+    <customproperties>
+      <Option/>
+    </customproperties>
+    <layer-tree-group name="OSM" groupLayer="" checked="Qt::Unchecked" expanded="0">
+      <customproperties>
+        <Option/>
+      </customproperties>
+      <layer-tree-layer id="Refactored_fb4cef8b_513f_4ad2_8e01_29c541609fcb" source="Point?crs=EPSG:4326&amp;field=full_id:string(0,0)&amp;field=osm_id:string(0,0)&amp;field=osm_type:string(0,0)&amp;field=building:string(0,0)&amp;field=wheelchair:string(0,0)&amp;field=shop:string(0,0)&amp;field=opening_hours:string(0,0)&amp;field=entrance:string(0,0)&amp;field=sport:string(0,0)&amp;field=operator:string(0,0)&amp;field=name:string(0,0)&amp;field=leisure:string(0,0)&amp;field=access:string(0,0)&amp;field=highway:string(0,0)&amp;uid={8e371f05-d17d-42be-a5fa-83520b7b6fe8}" legend_split_behavior="0" legend_exp="" name="building" checked="Qt::Unchecked" patch_size="-1,-1" expanded="1" providerKey="memory">
+        <customproperties>
+          <Option/>
+        </customproperties>
+      </layer-tree-layer>
+      <layer-tree-layer id="Refactored_b68dda2e_42d2_477b_833d_99465bbadb9c" source="MultiPolygon?crs=EPSG:4326&amp;field=full_id:string(0,0)&amp;field=osm_id:string(0,0)&amp;field=osm_type:string(0,0)&amp;field=building:string(0,0)&amp;field=leisure:string(0,0)&amp;field=man_made:string(0,0)&amp;field=content:string(0,0)&amp;field=power:string(0,0)&amp;field=generator%3Atype:string(0,0)&amp;field=generator%3Asource:string(0,0)&amp;field=generator%3Aoutput%3Aelectricity:string(0,0)&amp;field=generator%3Amethod:string(0,0)&amp;field=tourism:string(0,0)&amp;field=rooms:string(0,0)&amp;field=internet_access%3Afee:string(0,0)&amp;field=internet_access:string(0,0)&amp;field=operator%3Awikidata:string(0,0)&amp;field=operator%3Ashort:string(0,0)&amp;field=addr%3Ahousename:string(0,0)&amp;field=railway:string(0,0)&amp;field=shelter_type:string(0,0)&amp;field=public_transport:string(0,0)&amp;field=description:string(0,0)&amp;field=layer:string(0,0)&amp;field=start_date:string(0,0)&amp;field=abandoned%3Aamenity:string(0,0)&amp;field=residential:string(0,0)&amp;field=operator%3Atype:string(0,0)&amp;field=smoking:string(0,0)&amp;field=check_date:string(0,0)&amp;field=brand%3Awikidata:string(0,0)&amp;field=brand:string(0,0)&amp;field=alt_name:string(0,0)&amp;field=takeaway:string(0,0)&amp;field=outdoor_seating:string(0,0)&amp;field=drive_through:string(0,0)&amp;field=cuisine:string(0,0)&amp;field=name%3Aen:string(0,0)&amp;field=name%3Aaf:string(0,0)&amp;field=level:string(0,0)&amp;field=phone%3A2:string(0,0)&amp;field=phone%3A1:string(0,0)&amp;field=healthcare:string(0,0)&amp;field=operator:string(0,0)&amp;field=opening_hours:string(0,0)&amp;field=sport:string(0,0)&amp;field=club:string(0,0)&amp;field=website:string(0,0)&amp;field=service_times:string(0,0)&amp;field=email:string(0,0)&amp;field=addr%3Asuburb:string(0,0)&amp;field=addr%3Apostcode:string(0,0)&amp;field=addr%3Acountry:string(0,0)&amp;field=roof%3Ashape:string(0,0)&amp;field=isced%3Alevel:string(0,0)&amp;field=religion:string(0,0)&amp;field=phone:string(0,0)&amp;field=denomination:string(0,0)&amp;field=amenity:string(0,0)&amp;field=roof%3Alevels:string(0,0)&amp;field=addr%3Ahousenumber:string(0,0)&amp;field=wheelchair:string(0,0)&amp;field=shop:string(0,0)&amp;field=addr%3Astreet:string(0,0)&amp;field=addr%3Acity:string(0,0)&amp;field=building%3Alevels:string(0,0)&amp;field=name:string(0,0)&amp;field=type:string(0,0)&amp;uid={1944d9cd-cb82-48d3-ac77-fa53e9aa7fcc}" legend_split_behavior="0" legend_exp="" name="building" checked="Qt::Unchecked" patch_size="-1,-1" expanded="0" providerKey="memory">
+        <customproperties>
+          <Option/>
+        </customproperties>
+      </layer-tree-layer>
+    </layer-tree-group>
+  </layer-tree-group>
+  <maplayers>
+    <maplayer styleCategories="AllStyleCategories" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" readOnly="0" legendPlaceholderImage="" simplifyAlgorithm="0" simplifyDrawingTol="1" minScale="100000000" simplifyDrawingHints="1" refreshOnNotifyMessage="" maxScale="0" autoRefreshEnabled="0" symbologyReferenceScale="-1" autoRefreshTime="0" geometry="Point" refreshOnNotifyEnabled="0" wkbType="Point" type="vector" simplifyLocal="1" labelsEnabled="0">
+      <extent>
+        <xmin>18.58511749999999907</xmin>
+        <ymin>-33.90899060000000276</ymin>
+        <xmax>18.61287450000000021</xmax>
+        <ymax>-33.90398119999999693</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>18.58511749999999907</xmin>
+        <ymin>-33.90899060000000276</ymin>
+        <xmax>18.61287450000000021</xmax>
+        <ymax>-33.90398119999999693</ymax>
+      </wgs84extent>
+      <id>Refactored_fb4cef8b_513f_4ad2_8e01_29c541609fcb</id>
+      <datasource>memory?geometry=Point&amp;crs=EPSG:4326&amp;field=full_id:string(0,0)&amp;field=osm_id:string(0,0)&amp;field=osm_type:string(0,0)&amp;field=building:string(0,0)&amp;field=wheelchair:string(0,0)&amp;field=shop:string(0,0)&amp;field=opening_hours:string(0,0)&amp;field=entrance:string(0,0)&amp;field=sport:string(0,0)&amp;field=operator:string(0,0)&amp;field=name:string(0,0)&amp;field=leisure:string(0,0)&amp;field=access:string(0,0)&amp;field=highway:string(0,0)</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>building</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <rights>© OpenStreetMap contributors</rights>
+        <license>https://openstreetmap.org/copyright</license>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="">memory</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" endField="" startExpression="" limitMode="0" durationUnit="min" mode="0" startField="" durationField="" endExpression="" fixedDuration="0" accumulate="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <elevation extrusion="0" showMarkerSymbolInSurfacePlots="0" clamping="Terrain" symbology="Line" respectLayerSymbol="1" zoffset="0" extrusionEnabled="0" zscale="1" type="IndividualFeatures" binding="Centroid">
+        <data-defined-properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data-defined-properties>
+        <profileLineSymbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="" frame_rate="10" is_animated="0" type="line">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleLine">
+              <Option type="Map">
+                <Option name="align_dash_pattern" value="0" type="QString"/>
+                <Option name="capstyle" value="square" type="QString"/>
+                <Option name="customdash" value="5;2" type="QString"/>
+                <Option name="customdash_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="customdash_unit" value="MM" type="QString"/>
+                <Option name="dash_pattern_offset" value="0" type="QString"/>
+                <Option name="dash_pattern_offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="dash_pattern_offset_unit" value="MM" type="QString"/>
+                <Option name="draw_inside_polygon" value="0" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="line_color" value="164,113,88,255" type="QString"/>
+                <Option name="line_style" value="solid" type="QString"/>
+                <Option name="line_width" value="0.6" type="QString"/>
+                <Option name="line_width_unit" value="MM" type="QString"/>
+                <Option name="offset" value="0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="ring_filter" value="0" type="QString"/>
+                <Option name="trim_distance_end" value="0" type="QString"/>
+                <Option name="trim_distance_end_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="trim_distance_end_unit" value="MM" type="QString"/>
+                <Option name="trim_distance_start" value="0" type="QString"/>
+                <Option name="trim_distance_start_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="trim_distance_start_unit" value="MM" type="QString"/>
+                <Option name="tweak_dash_pattern_on_corners" value="0" type="QString"/>
+                <Option name="use_custom_dash" value="0" type="QString"/>
+                <Option name="width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </profileLineSymbol>
+        <profileFillSymbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="164,113,88,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="117,81,63,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.2" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </profileFillSymbol>
+        <profileMarkerSymbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="" frame_rate="10" is_animated="0" type="marker">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleMarker">
+              <Option type="Map">
+                <Option name="angle" value="0" type="QString"/>
+                <Option name="cap_style" value="square" type="QString"/>
+                <Option name="color" value="164,113,88,255" type="QString"/>
+                <Option name="horizontal_anchor_point" value="1" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="name" value="diamond" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="117,81,63,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.2" type="QString"/>
+                <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="scale_method" value="diameter" type="QString"/>
+                <Option name="size" value="3" type="QString"/>
+                <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="size_unit" value="MM" type="QString"/>
+                <Option name="vertical_anchor_point" value="1" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </profileMarkerSymbol>
+      </elevation>
+      <renderer-v2 enableorderby="0" symbollevels="0" forceraster="0" referencescale="-1" type="singleSymbol">
+        <symbols>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="0" frame_rate="10" is_animated="0" type="marker">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleMarker">
+              <Option type="Map">
+                <Option name="angle" value="0" type="QString"/>
+                <Option name="cap_style" value="square" type="QString"/>
+                <Option name="color" value="213,180,60,255" type="QString"/>
+                <Option name="horizontal_anchor_point" value="1" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="name" value="circle" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0" type="QString"/>
+                <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="scale_method" value="diameter" type="QString"/>
+                <Option name="size" value="2" type="QString"/>
+                <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="size_unit" value="MM" type="QString"/>
+                <Option name="vertical_anchor_point" value="1" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties>
+        <Option type="Map">
+          <Option name="OnConvertFormatRegeneratePrimaryKey" value="false" type="bool"/>
+          <Option name="variableNames" type="StringList">
+            <Option value="quickosm_query" type="QString"/>
+          </Option>
+          <Option name="variableValues" type="StringList">
+            <Option value="[out:xml] [timeout:25];&#xa;(&#xa;    node[&quot;building&quot;]( -33.91014,18.58064,-33.8893,18.61295);&#xa;    way[&quot;building&quot;]( -33.91014,18.58064,-33.8893,18.61295);&#xa;    relation[&quot;building&quot;]( -33.91014,18.58064,-33.8893,18.61295);&#xa;);&#xa;(._;>;);&#xa;out body;" type="QString"/>
+          </Option>
+        </Option>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+        <activeChecks type="StringList">
+          <Option value="" type="QString"/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <legend showLabelLegend="0" type="default-vector"/>
+      <referencedLayers/>
+      <fieldConfiguration>
+        <field name="full_id" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="osm_id" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="osm_type" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="building" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="wheelchair" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="shop" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="opening_hours" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="entrance" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="sport" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="operator" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="name" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="leisure" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="access" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="highway" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias name="" field="full_id" index="0"/>
+        <alias name="" field="osm_id" index="1"/>
+        <alias name="" field="osm_type" index="2"/>
+        <alias name="" field="building" index="3"/>
+        <alias name="" field="wheelchair" index="4"/>
+        <alias name="" field="shop" index="5"/>
+        <alias name="" field="opening_hours" index="6"/>
+        <alias name="" field="entrance" index="7"/>
+        <alias name="" field="sport" index="8"/>
+        <alias name="" field="operator" index="9"/>
+        <alias name="" field="name" index="10"/>
+        <alias name="" field="leisure" index="11"/>
+        <alias name="" field="access" index="12"/>
+        <alias name="" field="highway" index="13"/>
+      </aliases>
+      <defaults>
+        <default applyOnUpdate="0" field="full_id" expression=""/>
+        <default applyOnUpdate="0" field="osm_id" expression=""/>
+        <default applyOnUpdate="0" field="osm_type" expression=""/>
+        <default applyOnUpdate="0" field="building" expression=""/>
+        <default applyOnUpdate="0" field="wheelchair" expression=""/>
+        <default applyOnUpdate="0" field="shop" expression=""/>
+        <default applyOnUpdate="0" field="opening_hours" expression=""/>
+        <default applyOnUpdate="0" field="entrance" expression=""/>
+        <default applyOnUpdate="0" field="sport" expression=""/>
+        <default applyOnUpdate="0" field="operator" expression=""/>
+        <default applyOnUpdate="0" field="name" expression=""/>
+        <default applyOnUpdate="0" field="leisure" expression=""/>
+        <default applyOnUpdate="0" field="access" expression=""/>
+        <default applyOnUpdate="0" field="highway" expression=""/>
+      </defaults>
+      <constraints>
+        <constraint exp_strength="0" constraints="0" field="full_id" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="osm_id" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="osm_type" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="building" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="wheelchair" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="shop" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="opening_hours" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="entrance" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="sport" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="operator" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="name" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="leisure" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="access" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="highway" unique_strength="0" notnull_strength="0"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint exp="" desc="" field="full_id"/>
+        <constraint exp="" desc="" field="osm_id"/>
+        <constraint exp="" desc="" field="osm_type"/>
+        <constraint exp="" desc="" field="building"/>
+        <constraint exp="" desc="" field="wheelchair"/>
+        <constraint exp="" desc="" field="shop"/>
+        <constraint exp="" desc="" field="opening_hours"/>
+        <constraint exp="" desc="" field="entrance"/>
+        <constraint exp="" desc="" field="sport"/>
+        <constraint exp="" desc="" field="operator"/>
+        <constraint exp="" desc="" field="name"/>
+        <constraint exp="" desc="" field="leisure"/>
+        <constraint exp="" desc="" field="access"/>
+        <constraint exp="" desc="" field="highway"/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+        <actionsetting notificationMessage="" id="{08a52835-05b0-4f52-af1a-36b3d23ab5b7}" capture="0" shortTitle="OpenStreetMap Browser" name="OpenStreetMap Browser" action="http://www.openstreetmap.org/browse/[% &quot;osm_type&quot; %]/[% &quot;osm_id&quot; %]" isEnabledOnlyWhenEditable="0" type="5" icon="">
+          <actionScope id="Canvas"/>
+          <actionScope id="Feature"/>
+          <actionScope id="Field"/>
+        </actionsetting>
+        <actionsetting notificationMessage="" id="{5982e8cc-c326-4d67-9277-52dcaacd1309}" capture="0" shortTitle="JOSM" name="JOSM" action="from QuickOSM.core.actions import Actions;Actions.run(&quot;josm&quot;,&quot;[% &quot;full_id&quot; %]&quot;)" isEnabledOnlyWhenEditable="0" type="1" icon="/home/damian/.local/share/QGIS/QGIS3/profiles/default/python/plugins/QuickOSM/resources/icons/josm_icon.svg">
+          <actionScope id="Canvas"/>
+          <actionScope id="Feature"/>
+          <actionScope id="Field"/>
+        </actionsetting>
+        <actionsetting notificationMessage="" id="{30053034-993c-40be-ae49-be98eae68f78}" capture="0" shortTitle="User default editor" name="User default editor" action="http://www.openstreetmap.org/edit?[% &quot;osm_type&quot; %]=[% &quot;osm_id&quot; %]" isEnabledOnlyWhenEditable="0" type="5" icon="">
+          <actionScope id="Canvas"/>
+          <actionScope id="Feature"/>
+          <actionScope id="Field"/>
+        </actionsetting>
+        <actionsetting notificationMessage="" id="{dfa6b35a-dcb2-4b20-a520-0e0e467f2a80}" capture="0" shortTitle="Reload the query in a new file" name="Reload the query in a new file" action="from QuickOSM.core.actions import Actions;Actions.run_reload(layer_name=&quot;building&quot;)" isEnabledOnlyWhenEditable="0" type="1" icon="">
+          <actionScope id="Layer"/>
+        </actionsetting>
+      </attributeactions>
+      <attributetableconfig sortOrder="0" actionWidgetStyle="dropDown" sortExpression="">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <reuseLastValue/>
+      <dataDefinedFieldProperties/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer styleCategories="AllStyleCategories" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" readOnly="0" legendPlaceholderImage="" simplifyAlgorithm="0" simplifyDrawingTol="1" minScale="100000000" simplifyDrawingHints="1" refreshOnNotifyMessage="" maxScale="0" autoRefreshEnabled="0" symbologyReferenceScale="-1" autoRefreshTime="0" geometry="Polygon" refreshOnNotifyEnabled="0" wkbType="MultiPolygon" type="vector" simplifyLocal="1" labelsEnabled="0">
+      <extent>
+        <xmin>18.58037889999999948</xmin>
+        <ymin>-33.91121110000000272</ymin>
+        <xmax>18.61484839999999963</xmax>
+        <ymax>-33.88910539999999827</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>18.58037889999999948</xmin>
+        <ymin>-33.91121110000000272</ymin>
+        <xmax>18.61484839999999963</xmax>
+        <ymax>-33.88910539999999827</ymax>
+      </wgs84extent>
+      <id>Refactored_b68dda2e_42d2_477b_833d_99465bbadb9c</id>
+      <datasource>memory?geometry=MultiPolygon&amp;crs=EPSG:4326&amp;field=full_id:string(0,0)&amp;field=osm_id:string(0,0)&amp;field=osm_type:string(0,0)&amp;field=building:string(0,0)&amp;field=leisure:string(0,0)&amp;field=man_made:string(0,0)&amp;field=content:string(0,0)&amp;field=power:string(0,0)&amp;field=generator:type:string(0,0)&amp;field=generator:source:string(0,0)&amp;field=generator:output:electricity:string(0,0)&amp;field=generator:method:string(0,0)&amp;field=tourism:string(0,0)&amp;field=rooms:string(0,0)&amp;field=internet_access:fee:string(0,0)&amp;field=internet_access:string(0,0)&amp;field=operator:wikidata:string(0,0)&amp;field=operator:short:string(0,0)&amp;field=addr:housename:string(0,0)&amp;field=railway:string(0,0)&amp;field=shelter_type:string(0,0)&amp;field=public_transport:string(0,0)&amp;field=description:string(0,0)&amp;field=layer:string(0,0)&amp;field=start_date:string(0,0)&amp;field=abandoned:amenity:string(0,0)&amp;field=residential:string(0,0)&amp;field=operator:type:string(0,0)&amp;field=smoking:string(0,0)&amp;field=check_date:string(0,0)&amp;field=brand:wikidata:string(0,0)&amp;field=brand:string(0,0)&amp;field=alt_name:string(0,0)&amp;field=takeaway:string(0,0)&amp;field=outdoor_seating:string(0,0)&amp;field=drive_through:string(0,0)&amp;field=cuisine:string(0,0)&amp;field=name:en:string(0,0)&amp;field=name:af:string(0,0)&amp;field=level:string(0,0)&amp;field=phone:2:string(0,0)&amp;field=phone:1:string(0,0)&amp;field=healthcare:string(0,0)&amp;field=operator:string(0,0)&amp;field=opening_hours:string(0,0)&amp;field=sport:string(0,0)&amp;field=club:string(0,0)&amp;field=website:string(0,0)&amp;field=service_times:string(0,0)&amp;field=email:string(0,0)&amp;field=addr:suburb:string(0,0)&amp;field=addr:postcode:string(0,0)&amp;field=addr:country:string(0,0)&amp;field=roof:shape:string(0,0)&amp;field=isced:level:string(0,0)&amp;field=religion:string(0,0)&amp;field=phone:string(0,0)&amp;field=denomination:string(0,0)&amp;field=amenity:string(0,0)&amp;field=roof:levels:string(0,0)&amp;field=addr:housenumber:string(0,0)&amp;field=wheelchair:string(0,0)&amp;field=shop:string(0,0)&amp;field=addr:street:string(0,0)&amp;field=addr:city:string(0,0)&amp;field=building:levels:string(0,0)&amp;field=name:string(0,0)&amp;field=type:string(0,0)</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>building</layername>
+      <srs>
+        <spatialrefsys nativeFormat="Wkt">
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <rights>© OpenStreetMap contributors</rights>
+        <license>https://openstreetmap.org/copyright</license>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys nativeFormat="Wkt">
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial minz="0" maxx="0" dimensions="2" miny="0" minx="0" maxy="0" maxz="0" crs=""/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider encoding="">memory</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal enabled="0" endField="" startExpression="" limitMode="0" durationUnit="min" mode="0" startField="" durationField="" endExpression="" fixedDuration="0" accumulate="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <elevation extrusion="0" showMarkerSymbolInSurfacePlots="0" clamping="Terrain" symbology="Line" respectLayerSymbol="1" zoffset="0" extrusionEnabled="0" zscale="1" type="IndividualFeatures" binding="Centroid">
+        <data-defined-properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data-defined-properties>
+        <profileLineSymbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="" frame_rate="10" is_animated="0" type="line">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleLine">
+              <Option type="Map">
+                <Option name="align_dash_pattern" value="0" type="QString"/>
+                <Option name="capstyle" value="square" type="QString"/>
+                <Option name="customdash" value="5;2" type="QString"/>
+                <Option name="customdash_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="customdash_unit" value="MM" type="QString"/>
+                <Option name="dash_pattern_offset" value="0" type="QString"/>
+                <Option name="dash_pattern_offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="dash_pattern_offset_unit" value="MM" type="QString"/>
+                <Option name="draw_inside_polygon" value="0" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="line_color" value="190,178,151,255" type="QString"/>
+                <Option name="line_style" value="solid" type="QString"/>
+                <Option name="line_width" value="0.6" type="QString"/>
+                <Option name="line_width_unit" value="MM" type="QString"/>
+                <Option name="offset" value="0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="ring_filter" value="0" type="QString"/>
+                <Option name="trim_distance_end" value="0" type="QString"/>
+                <Option name="trim_distance_end_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="trim_distance_end_unit" value="MM" type="QString"/>
+                <Option name="trim_distance_start" value="0" type="QString"/>
+                <Option name="trim_distance_start_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="trim_distance_start_unit" value="MM" type="QString"/>
+                <Option name="tweak_dash_pattern_on_corners" value="0" type="QString"/>
+                <Option name="use_custom_dash" value="0" type="QString"/>
+                <Option name="width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </profileLineSymbol>
+        <profileFillSymbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="190,178,151,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="136,127,108,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.2" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </profileFillSymbol>
+        <profileMarkerSymbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="" frame_rate="10" is_animated="0" type="marker">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleMarker">
+              <Option type="Map">
+                <Option name="angle" value="0" type="QString"/>
+                <Option name="cap_style" value="square" type="QString"/>
+                <Option name="color" value="190,178,151,255" type="QString"/>
+                <Option name="horizontal_anchor_point" value="1" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="name" value="diamond" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="136,127,108,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.2" type="QString"/>
+                <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="scale_method" value="diameter" type="QString"/>
+                <Option name="size" value="3" type="QString"/>
+                <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="size_unit" value="MM" type="QString"/>
+                <Option name="vertical_anchor_point" value="1" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </profileMarkerSymbol>
+      </elevation>
+      <renderer-v2 attr="building" enableorderby="0" symbollevels="0" forceraster="0" referencescale="-1" type="categorizedSymbol">
+        <categories>
+          <category render="true" symbol="0" label="apartments" value="apartments" type="string"/>
+          <category render="true" symbol="1" label="carport" value="carport" type="string"/>
+          <category render="true" symbol="2" label="chapel" value="chapel" type="string"/>
+          <category render="true" symbol="3" label="church" value="church" type="string"/>
+          <category render="true" symbol="4" label="commercial" value="commercial" type="string"/>
+          <category render="true" symbol="5" label="garage" value="garage" type="string"/>
+          <category render="true" symbol="6" label="grandstand" value="grandstand" type="string"/>
+          <category render="true" symbol="7" label="hospital" value="hospital" type="string"/>
+          <category render="true" symbol="8" label="hotel" value="hotel" type="string"/>
+          <category render="true" symbol="9" label="house" value="house" type="string"/>
+          <category render="true" symbol="10" label="industrial" value="industrial" type="string"/>
+          <category render="true" symbol="11" label="kindergarten" value="kindergarten" type="string"/>
+          <category render="true" symbol="12" label="office" value="office" type="string"/>
+          <category render="true" symbol="13" label="police" value="police" type="string"/>
+          <category render="true" symbol="14" label="public" value="public" type="string"/>
+          <category render="true" symbol="15" label="residential" value="residential" type="string"/>
+          <category render="true" symbol="16" label="retail" value="retail" type="string"/>
+          <category render="true" symbol="17" label="roof" value="roof" type="string"/>
+          <category render="true" symbol="18" label="school" value="school" type="string"/>
+          <category render="true" symbol="19" label="sports_centre" value="sports_centre" type="string"/>
+          <category render="true" symbol="20" label="storage_tank" value="storage_tank" type="string"/>
+          <category render="true" symbol="21" label="train_station" value="train_station" type="string"/>
+          <category render="true" symbol="22" label="university" value="university" type="string"/>
+          <category render="true" symbol="23" label="yes" value="yes" type="string"/>
+          <category render="true" symbol="24" label="" value="" type="string"/>
+        </categories>
+        <symbols>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="0" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="90,214,175,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="1" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="213,73,68,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="10" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="205,89,141,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="11" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="230,193,81,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="12" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="228,53,88,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="13" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="48,206,119,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="14" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="204,133,58,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="15" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="195,77,219,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="16" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="101,233,128,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="17" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="48,196,226,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="18" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="125,74,213,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="19" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="237,66,183,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="2" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="178,215,67,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="20" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="184,117,228,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="21" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="66,48,207,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="22" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="210,90,42,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="23" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="85,237,80,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="24" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="185,229,138,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="3" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="218,220,98,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="4" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="65,230,219,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="5" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="42,147,216,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="6" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="109,209,72,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="7" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="58,75,201,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="8" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="228,84,216,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="9" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="58,115,221,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <source-symbol>
+          <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="0" frame_rate="10" is_animated="0" type="fill">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+              <Option type="Map">
+                <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="color" value="145,82,45,255" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="35,35,35,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0.26" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="style" value="solid" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </source-symbol>
+        <colorramp name="[source]" type="randomcolors">
+          <Option/>
+        </colorramp>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties>
+        <Option type="Map">
+          <Option name="OnConvertFormatRegeneratePrimaryKey" value="false" type="bool"/>
+          <Option name="embeddedWidgets/count" value="0" type="int"/>
+          <Option name="variableNames" type="StringList">
+            <Option value="quickosm_query" type="QString"/>
+          </Option>
+          <Option name="variableValues" type="StringList">
+            <Option value="[out:xml] [timeout:25];&#xa;(&#xa;    node[&quot;building&quot;]( -33.91014,18.58064,-33.8893,18.61295);&#xa;    way[&quot;building&quot;]( -33.91014,18.58064,-33.8893,18.61295);&#xa;    relation[&quot;building&quot;]( -33.91014,18.58064,-33.8893,18.61295);&#xa;);&#xa;(._;>;);&#xa;out body;" type="QString"/>
+          </Option>
+        </Option>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" attributeLegend="1">
+        <DiagramCategory labelPlacementMethod="XHeight" barWidth="5" rotationOffset="270" scaleBasedVisibility="0" enabled="0" backgroundColor="#ffffff" sizeScale="3x:0,0,0,0,0,0" scaleDependency="Area" spacing="5" spacingUnitScale="3x:0,0,0,0,0,0" direction="0" minScaleDenominator="0" opacity="1" lineSizeType="MM" sizeType="MM" showAxis="1" lineSizeScale="3x:0,0,0,0,0,0" height="15" maxScaleDenominator="1e+08" penAlpha="255" minimumSize="0" penWidth="0" spacingUnit="MM" width="15" penColor="#000000" backgroundAlpha="255" diagramOrientation="Up">
+          <fontProperties style="" bold="0" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" strikethrough="0"/>
+          <axisSymbol>
+            <symbol force_rhr="0" clip_to_extent="1" alpha="1" name="" frame_rate="10" is_animated="0" type="line">
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+              <layer enabled="1" locked="0" pass="0" class="SimpleLine">
+                <Option type="Map">
+                  <Option name="align_dash_pattern" value="0" type="QString"/>
+                  <Option name="capstyle" value="square" type="QString"/>
+                  <Option name="customdash" value="5;2" type="QString"/>
+                  <Option name="customdash_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                  <Option name="customdash_unit" value="MM" type="QString"/>
+                  <Option name="dash_pattern_offset" value="0" type="QString"/>
+                  <Option name="dash_pattern_offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                  <Option name="dash_pattern_offset_unit" value="MM" type="QString"/>
+                  <Option name="draw_inside_polygon" value="0" type="QString"/>
+                  <Option name="joinstyle" value="bevel" type="QString"/>
+                  <Option name="line_color" value="35,35,35,255" type="QString"/>
+                  <Option name="line_style" value="solid" type="QString"/>
+                  <Option name="line_width" value="0.26" type="QString"/>
+                  <Option name="line_width_unit" value="MM" type="QString"/>
+                  <Option name="offset" value="0" type="QString"/>
+                  <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                  <Option name="offset_unit" value="MM" type="QString"/>
+                  <Option name="ring_filter" value="0" type="QString"/>
+                  <Option name="trim_distance_end" value="0" type="QString"/>
+                  <Option name="trim_distance_end_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                  <Option name="trim_distance_end_unit" value="MM" type="QString"/>
+                  <Option name="trim_distance_start" value="0" type="QString"/>
+                  <Option name="trim_distance_start_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                  <Option name="trim_distance_start_unit" value="MM" type="QString"/>
+                  <Option name="tweak_dash_pattern_on_corners" value="0" type="QString"/>
+                  <Option name="use_custom_dash" value="0" type="QString"/>
+                  <Option name="width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                </Option>
+                <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" value="" type="QString"/>
+                    <Option name="properties"/>
+                    <Option name="type" value="collection" type="QString"/>
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </axisSymbol>
+        </DiagramCategory>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings obstacle="0" linePlacementFlags="18" placement="1" dist="0" priority="0" zIndex="0" showAll="1">
+        <properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </properties>
+      </DiagramLayerSettings>
+      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+        <activeChecks/>
+        <checkConfiguration type="Map">
+          <Option name="QgsGeometryGapCheck" type="Map">
+            <Option name="allowedGapsBuffer" value="0" type="double"/>
+            <Option name="allowedGapsEnabled" value="false" type="bool"/>
+            <Option name="allowedGapsLayer" value="" type="QString"/>
+          </Option>
+        </checkConfiguration>
+      </geometryOptions>
+      <legend showLabelLegend="0" type="default-vector"/>
+      <referencedLayers/>
+      <fieldConfiguration>
+        <field name="full_id" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="osm_id" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="osm_type" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="building" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="leisure" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="man_made" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="content" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="power" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="generator:type" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="generator:source" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="generator:output:electricity" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="generator:method" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="tourism" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="rooms" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="internet_access:fee" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="internet_access" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="operator:wikidata" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="operator:short" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="addr:housename" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="railway" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="shelter_type" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="public_transport" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="description" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="layer" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="start_date" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="abandoned:amenity" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="residential" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="operator:type" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="smoking" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="check_date" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="brand:wikidata" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="brand" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="alt_name" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="takeaway" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="outdoor_seating" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="drive_through" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="cuisine" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="name:en" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="name:af" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="level" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="phone:2" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="phone:1" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="healthcare" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="operator" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="opening_hours" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="sport" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="club" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="website" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="service_times" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="email" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="addr:suburb" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="addr:postcode" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="addr:country" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="roof:shape" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="isced:level" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="religion" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="phone" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="denomination" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="amenity" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="roof:levels" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="addr:housenumber" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="wheelchair" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="shop" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="addr:street" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="addr:city" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="building:levels" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="name" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="type" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias name="" field="full_id" index="0"/>
+        <alias name="" field="osm_id" index="1"/>
+        <alias name="" field="osm_type" index="2"/>
+        <alias name="" field="building" index="3"/>
+        <alias name="" field="leisure" index="4"/>
+        <alias name="" field="man_made" index="5"/>
+        <alias name="" field="content" index="6"/>
+        <alias name="" field="power" index="7"/>
+        <alias name="" field="generator:type" index="8"/>
+        <alias name="" field="generator:source" index="9"/>
+        <alias name="" field="generator:output:electricity" index="10"/>
+        <alias name="" field="generator:method" index="11"/>
+        <alias name="" field="tourism" index="12"/>
+        <alias name="" field="rooms" index="13"/>
+        <alias name="" field="internet_access:fee" index="14"/>
+        <alias name="" field="internet_access" index="15"/>
+        <alias name="" field="operator:wikidata" index="16"/>
+        <alias name="" field="operator:short" index="17"/>
+        <alias name="" field="addr:housename" index="18"/>
+        <alias name="" field="railway" index="19"/>
+        <alias name="" field="shelter_type" index="20"/>
+        <alias name="" field="public_transport" index="21"/>
+        <alias name="" field="description" index="22"/>
+        <alias name="" field="layer" index="23"/>
+        <alias name="" field="start_date" index="24"/>
+        <alias name="" field="abandoned:amenity" index="25"/>
+        <alias name="" field="residential" index="26"/>
+        <alias name="" field="operator:type" index="27"/>
+        <alias name="" field="smoking" index="28"/>
+        <alias name="" field="check_date" index="29"/>
+        <alias name="" field="brand:wikidata" index="30"/>
+        <alias name="" field="brand" index="31"/>
+        <alias name="" field="alt_name" index="32"/>
+        <alias name="" field="takeaway" index="33"/>
+        <alias name="" field="outdoor_seating" index="34"/>
+        <alias name="" field="drive_through" index="35"/>
+        <alias name="" field="cuisine" index="36"/>
+        <alias name="" field="name:en" index="37"/>
+        <alias name="" field="name:af" index="38"/>
+        <alias name="" field="level" index="39"/>
+        <alias name="" field="phone:2" index="40"/>
+        <alias name="" field="phone:1" index="41"/>
+        <alias name="" field="healthcare" index="42"/>
+        <alias name="" field="operator" index="43"/>
+        <alias name="" field="opening_hours" index="44"/>
+        <alias name="" field="sport" index="45"/>
+        <alias name="" field="club" index="46"/>
+        <alias name="" field="website" index="47"/>
+        <alias name="" field="service_times" index="48"/>
+        <alias name="" field="email" index="49"/>
+        <alias name="" field="addr:suburb" index="50"/>
+        <alias name="" field="addr:postcode" index="51"/>
+        <alias name="" field="addr:country" index="52"/>
+        <alias name="" field="roof:shape" index="53"/>
+        <alias name="" field="isced:level" index="54"/>
+        <alias name="" field="religion" index="55"/>
+        <alias name="" field="phone" index="56"/>
+        <alias name="" field="denomination" index="57"/>
+        <alias name="" field="amenity" index="58"/>
+        <alias name="" field="roof:levels" index="59"/>
+        <alias name="" field="addr:housenumber" index="60"/>
+        <alias name="" field="wheelchair" index="61"/>
+        <alias name="" field="shop" index="62"/>
+        <alias name="" field="addr:street" index="63"/>
+        <alias name="" field="addr:city" index="64"/>
+        <alias name="" field="building:levels" index="65"/>
+        <alias name="" field="name" index="66"/>
+        <alias name="" field="type" index="67"/>
+      </aliases>
+      <defaults>
+        <default applyOnUpdate="0" field="full_id" expression=""/>
+        <default applyOnUpdate="0" field="osm_id" expression=""/>
+        <default applyOnUpdate="0" field="osm_type" expression=""/>
+        <default applyOnUpdate="0" field="building" expression=""/>
+        <default applyOnUpdate="0" field="leisure" expression=""/>
+        <default applyOnUpdate="0" field="man_made" expression=""/>
+        <default applyOnUpdate="0" field="content" expression=""/>
+        <default applyOnUpdate="0" field="power" expression=""/>
+        <default applyOnUpdate="0" field="generator:type" expression=""/>
+        <default applyOnUpdate="0" field="generator:source" expression=""/>
+        <default applyOnUpdate="0" field="generator:output:electricity" expression=""/>
+        <default applyOnUpdate="0" field="generator:method" expression=""/>
+        <default applyOnUpdate="0" field="tourism" expression=""/>
+        <default applyOnUpdate="0" field="rooms" expression=""/>
+        <default applyOnUpdate="0" field="internet_access:fee" expression=""/>
+        <default applyOnUpdate="0" field="internet_access" expression=""/>
+        <default applyOnUpdate="0" field="operator:wikidata" expression=""/>
+        <default applyOnUpdate="0" field="operator:short" expression=""/>
+        <default applyOnUpdate="0" field="addr:housename" expression=""/>
+        <default applyOnUpdate="0" field="railway" expression=""/>
+        <default applyOnUpdate="0" field="shelter_type" expression=""/>
+        <default applyOnUpdate="0" field="public_transport" expression=""/>
+        <default applyOnUpdate="0" field="description" expression=""/>
+        <default applyOnUpdate="0" field="layer" expression=""/>
+        <default applyOnUpdate="0" field="start_date" expression=""/>
+        <default applyOnUpdate="0" field="abandoned:amenity" expression=""/>
+        <default applyOnUpdate="0" field="residential" expression=""/>
+        <default applyOnUpdate="0" field="operator:type" expression=""/>
+        <default applyOnUpdate="0" field="smoking" expression=""/>
+        <default applyOnUpdate="0" field="check_date" expression=""/>
+        <default applyOnUpdate="0" field="brand:wikidata" expression=""/>
+        <default applyOnUpdate="0" field="brand" expression=""/>
+        <default applyOnUpdate="0" field="alt_name" expression=""/>
+        <default applyOnUpdate="0" field="takeaway" expression=""/>
+        <default applyOnUpdate="0" field="outdoor_seating" expression=""/>
+        <default applyOnUpdate="0" field="drive_through" expression=""/>
+        <default applyOnUpdate="0" field="cuisine" expression=""/>
+        <default applyOnUpdate="0" field="name:en" expression=""/>
+        <default applyOnUpdate="0" field="name:af" expression=""/>
+        <default applyOnUpdate="0" field="level" expression=""/>
+        <default applyOnUpdate="0" field="phone:2" expression=""/>
+        <default applyOnUpdate="0" field="phone:1" expression=""/>
+        <default applyOnUpdate="0" field="healthcare" expression=""/>
+        <default applyOnUpdate="0" field="operator" expression=""/>
+        <default applyOnUpdate="0" field="opening_hours" expression=""/>
+        <default applyOnUpdate="0" field="sport" expression=""/>
+        <default applyOnUpdate="0" field="club" expression=""/>
+        <default applyOnUpdate="0" field="website" expression=""/>
+        <default applyOnUpdate="0" field="service_times" expression=""/>
+        <default applyOnUpdate="0" field="email" expression=""/>
+        <default applyOnUpdate="0" field="addr:suburb" expression=""/>
+        <default applyOnUpdate="0" field="addr:postcode" expression=""/>
+        <default applyOnUpdate="0" field="addr:country" expression=""/>
+        <default applyOnUpdate="0" field="roof:shape" expression=""/>
+        <default applyOnUpdate="0" field="isced:level" expression=""/>
+        <default applyOnUpdate="0" field="religion" expression=""/>
+        <default applyOnUpdate="0" field="phone" expression=""/>
+        <default applyOnUpdate="0" field="denomination" expression=""/>
+        <default applyOnUpdate="0" field="amenity" expression=""/>
+        <default applyOnUpdate="0" field="roof:levels" expression=""/>
+        <default applyOnUpdate="0" field="addr:housenumber" expression=""/>
+        <default applyOnUpdate="0" field="wheelchair" expression=""/>
+        <default applyOnUpdate="0" field="shop" expression=""/>
+        <default applyOnUpdate="0" field="addr:street" expression=""/>
+        <default applyOnUpdate="0" field="addr:city" expression=""/>
+        <default applyOnUpdate="0" field="building:levels" expression=""/>
+        <default applyOnUpdate="0" field="name" expression=""/>
+        <default applyOnUpdate="0" field="type" expression=""/>
+      </defaults>
+      <constraints>
+        <constraint exp_strength="0" constraints="0" field="full_id" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="osm_id" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="osm_type" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="building" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="leisure" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="man_made" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="content" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="power" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="generator:type" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="generator:source" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="generator:output:electricity" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="generator:method" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="tourism" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="rooms" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="internet_access:fee" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="internet_access" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="operator:wikidata" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="operator:short" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="addr:housename" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="railway" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="shelter_type" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="public_transport" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="description" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="layer" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="start_date" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="abandoned:amenity" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="residential" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="operator:type" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="smoking" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="check_date" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="brand:wikidata" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="brand" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="alt_name" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="takeaway" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="outdoor_seating" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="drive_through" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="cuisine" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="name:en" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="name:af" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="level" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="phone:2" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="phone:1" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="healthcare" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="operator" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="opening_hours" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="sport" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="club" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="website" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="service_times" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="email" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="addr:suburb" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="addr:postcode" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="addr:country" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="roof:shape" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="isced:level" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="religion" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="phone" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="denomination" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="amenity" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="roof:levels" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="addr:housenumber" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="wheelchair" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="shop" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="addr:street" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="addr:city" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="building:levels" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="name" unique_strength="0" notnull_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="type" unique_strength="0" notnull_strength="0"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint exp="" desc="" field="full_id"/>
+        <constraint exp="" desc="" field="osm_id"/>
+        <constraint exp="" desc="" field="osm_type"/>
+        <constraint exp="" desc="" field="building"/>
+        <constraint exp="" desc="" field="leisure"/>
+        <constraint exp="" desc="" field="man_made"/>
+        <constraint exp="" desc="" field="content"/>
+        <constraint exp="" desc="" field="power"/>
+        <constraint exp="" desc="" field="generator:type"/>
+        <constraint exp="" desc="" field="generator:source"/>
+        <constraint exp="" desc="" field="generator:output:electricity"/>
+        <constraint exp="" desc="" field="generator:method"/>
+        <constraint exp="" desc="" field="tourism"/>
+        <constraint exp="" desc="" field="rooms"/>
+        <constraint exp="" desc="" field="internet_access:fee"/>
+        <constraint exp="" desc="" field="internet_access"/>
+        <constraint exp="" desc="" field="operator:wikidata"/>
+        <constraint exp="" desc="" field="operator:short"/>
+        <constraint exp="" desc="" field="addr:housename"/>
+        <constraint exp="" desc="" field="railway"/>
+        <constraint exp="" desc="" field="shelter_type"/>
+        <constraint exp="" desc="" field="public_transport"/>
+        <constraint exp="" desc="" field="description"/>
+        <constraint exp="" desc="" field="layer"/>
+        <constraint exp="" desc="" field="start_date"/>
+        <constraint exp="" desc="" field="abandoned:amenity"/>
+        <constraint exp="" desc="" field="residential"/>
+        <constraint exp="" desc="" field="operator:type"/>
+        <constraint exp="" desc="" field="smoking"/>
+        <constraint exp="" desc="" field="check_date"/>
+        <constraint exp="" desc="" field="brand:wikidata"/>
+        <constraint exp="" desc="" field="brand"/>
+        <constraint exp="" desc="" field="alt_name"/>
+        <constraint exp="" desc="" field="takeaway"/>
+        <constraint exp="" desc="" field="outdoor_seating"/>
+        <constraint exp="" desc="" field="drive_through"/>
+        <constraint exp="" desc="" field="cuisine"/>
+        <constraint exp="" desc="" field="name:en"/>
+        <constraint exp="" desc="" field="name:af"/>
+        <constraint exp="" desc="" field="level"/>
+        <constraint exp="" desc="" field="phone:2"/>
+        <constraint exp="" desc="" field="phone:1"/>
+        <constraint exp="" desc="" field="healthcare"/>
+        <constraint exp="" desc="" field="operator"/>
+        <constraint exp="" desc="" field="opening_hours"/>
+        <constraint exp="" desc="" field="sport"/>
+        <constraint exp="" desc="" field="club"/>
+        <constraint exp="" desc="" field="website"/>
+        <constraint exp="" desc="" field="service_times"/>
+        <constraint exp="" desc="" field="email"/>
+        <constraint exp="" desc="" field="addr:suburb"/>
+        <constraint exp="" desc="" field="addr:postcode"/>
+        <constraint exp="" desc="" field="addr:country"/>
+        <constraint exp="" desc="" field="roof:shape"/>
+        <constraint exp="" desc="" field="isced:level"/>
+        <constraint exp="" desc="" field="religion"/>
+        <constraint exp="" desc="" field="phone"/>
+        <constraint exp="" desc="" field="denomination"/>
+        <constraint exp="" desc="" field="amenity"/>
+        <constraint exp="" desc="" field="roof:levels"/>
+        <constraint exp="" desc="" field="addr:housenumber"/>
+        <constraint exp="" desc="" field="wheelchair"/>
+        <constraint exp="" desc="" field="shop"/>
+        <constraint exp="" desc="" field="addr:street"/>
+        <constraint exp="" desc="" field="addr:city"/>
+        <constraint exp="" desc="" field="building:levels"/>
+        <constraint exp="" desc="" field="name"/>
+        <constraint exp="" desc="" field="type"/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+        <actionsetting notificationMessage="" id="{4b4bde94-782a-493a-a637-08f4ed883b09}" capture="0" shortTitle="OpenStreetMap Browser" name="OpenStreetMap Browser" action="http://www.openstreetmap.org/browse/[% &quot;osm_type&quot; %]/[% &quot;osm_id&quot; %]" isEnabledOnlyWhenEditable="0" type="5" icon="">
+          <actionScope id="Canvas"/>
+          <actionScope id="Feature"/>
+          <actionScope id="Field"/>
+        </actionsetting>
+        <actionsetting notificationMessage="" id="{ef1ae7e9-0de6-49e7-b7bb-80301b9bb239}" capture="0" shortTitle="JOSM" name="JOSM" action="from QuickOSM.core.actions import Actions;Actions.run(&quot;josm&quot;,&quot;[% &quot;full_id&quot; %]&quot;)" isEnabledOnlyWhenEditable="0" type="1" icon="/home/damian/.local/share/QGIS/QGIS3/profiles/default/python/plugins/QuickOSM/resources/icons/josm_icon.svg">
+          <actionScope id="Canvas"/>
+          <actionScope id="Feature"/>
+          <actionScope id="Field"/>
+        </actionsetting>
+        <actionsetting notificationMessage="" id="{508cdddb-baff-4920-8e1b-5c2b2548a6d7}" capture="0" shortTitle="User default editor" name="User default editor" action="http://www.openstreetmap.org/edit?[% &quot;osm_type&quot; %]=[% &quot;osm_id&quot; %]" isEnabledOnlyWhenEditable="0" type="5" icon="">
+          <actionScope id="Canvas"/>
+          <actionScope id="Feature"/>
+          <actionScope id="Field"/>
+        </actionsetting>
+        <actionsetting notificationMessage="" id="{4c68077c-26b8-47f6-9f04-3d7a0637bda0}" capture="0" shortTitle="website" name="website" action="from QuickOSM.core.actions import Actions;Actions.run(&quot;website&quot;,&quot;[% &quot;website&quot; %]&quot;)" isEnabledOnlyWhenEditable="0" type="1" icon="/home/damian/.local/share/QGIS/QGIS3/profiles/default/python/plugins/QuickOSM/resources/icons/external_link.png">
+          <actionScope id="Canvas"/>
+          <actionScope id="Feature"/>
+          <actionScope id="Field"/>
+        </actionsetting>
+        <actionsetting notificationMessage="" id="{a26e891e-2b0d-4bbc-a2f2-17a98330a681}" capture="0" shortTitle="Reload the query in a new file" name="Reload the query in a new file" action="from QuickOSM.core.actions import Actions;Actions.run_reload(layer_name=&quot;building&quot;)" isEnabledOnlyWhenEditable="0" type="1" icon="">
+          <actionScope id="Layer"/>
+        </actionsetting>
+      </attributeactions>
+      <attributetableconfig sortOrder="0" actionWidgetStyle="dropDown" sortExpression="">
+        <columns>
+          <column width="-1" name="full_id" hidden="0" type="field"/>
+          <column width="-1" name="osm_id" hidden="0" type="field"/>
+          <column width="-1" name="osm_type" hidden="0" type="field"/>
+          <column width="-1" name="building" hidden="0" type="field"/>
+          <column width="-1" name="leisure" hidden="0" type="field"/>
+          <column width="-1" name="man_made" hidden="0" type="field"/>
+          <column width="-1" name="content" hidden="0" type="field"/>
+          <column width="-1" name="power" hidden="0" type="field"/>
+          <column width="-1" name="generator:type" hidden="0" type="field"/>
+          <column width="-1" name="generator:source" hidden="0" type="field"/>
+          <column width="-1" name="generator:output:electricity" hidden="0" type="field"/>
+          <column width="-1" name="generator:method" hidden="0" type="field"/>
+          <column width="-1" name="tourism" hidden="0" type="field"/>
+          <column width="-1" name="rooms" hidden="0" type="field"/>
+          <column width="-1" name="internet_access:fee" hidden="0" type="field"/>
+          <column width="-1" name="internet_access" hidden="0" type="field"/>
+          <column width="-1" name="operator:wikidata" hidden="0" type="field"/>
+          <column width="-1" name="operator:short" hidden="0" type="field"/>
+          <column width="-1" name="addr:housename" hidden="0" type="field"/>
+          <column width="-1" name="railway" hidden="0" type="field"/>
+          <column width="-1" name="shelter_type" hidden="0" type="field"/>
+          <column width="-1" name="public_transport" hidden="0" type="field"/>
+          <column width="-1" name="description" hidden="0" type="field"/>
+          <column width="-1" name="layer" hidden="0" type="field"/>
+          <column width="-1" name="start_date" hidden="0" type="field"/>
+          <column width="-1" name="abandoned:amenity" hidden="0" type="field"/>
+          <column width="-1" name="residential" hidden="0" type="field"/>
+          <column width="-1" name="operator:type" hidden="0" type="field"/>
+          <column width="-1" name="smoking" hidden="0" type="field"/>
+          <column width="-1" name="check_date" hidden="0" type="field"/>
+          <column width="-1" name="brand:wikidata" hidden="0" type="field"/>
+          <column width="-1" name="brand" hidden="0" type="field"/>
+          <column width="-1" name="alt_name" hidden="0" type="field"/>
+          <column width="-1" name="takeaway" hidden="0" type="field"/>
+          <column width="-1" name="outdoor_seating" hidden="0" type="field"/>
+          <column width="-1" name="drive_through" hidden="0" type="field"/>
+          <column width="-1" name="cuisine" hidden="0" type="field"/>
+          <column width="-1" name="name:en" hidden="0" type="field"/>
+          <column width="-1" name="name:af" hidden="0" type="field"/>
+          <column width="-1" name="level" hidden="0" type="field"/>
+          <column width="-1" name="phone:2" hidden="0" type="field"/>
+          <column width="-1" name="phone:1" hidden="0" type="field"/>
+          <column width="-1" name="healthcare" hidden="0" type="field"/>
+          <column width="-1" name="operator" hidden="0" type="field"/>
+          <column width="-1" name="opening_hours" hidden="0" type="field"/>
+          <column width="-1" name="sport" hidden="0" type="field"/>
+          <column width="-1" name="club" hidden="0" type="field"/>
+          <column width="-1" name="website" hidden="0" type="field"/>
+          <column width="-1" name="service_times" hidden="0" type="field"/>
+          <column width="-1" name="email" hidden="0" type="field"/>
+          <column width="-1" name="addr:suburb" hidden="0" type="field"/>
+          <column width="-1" name="addr:postcode" hidden="0" type="field"/>
+          <column width="-1" name="addr:country" hidden="0" type="field"/>
+          <column width="-1" name="roof:shape" hidden="0" type="field"/>
+          <column width="-1" name="isced:level" hidden="0" type="field"/>
+          <column width="-1" name="religion" hidden="0" type="field"/>
+          <column width="-1" name="phone" hidden="0" type="field"/>
+          <column width="-1" name="denomination" hidden="0" type="field"/>
+          <column width="-1" name="amenity" hidden="0" type="field"/>
+          <column width="-1" name="roof:levels" hidden="0" type="field"/>
+          <column width="-1" name="addr:housenumber" hidden="0" type="field"/>
+          <column width="-1" name="wheelchair" hidden="0" type="field"/>
+          <column width="-1" name="shop" hidden="0" type="field"/>
+          <column width="-1" name="addr:street" hidden="0" type="field"/>
+          <column width="-1" name="addr:city" hidden="0" type="field"/>
+          <column width="-1" name="building:levels" hidden="0" type="field"/>
+          <column width="-1" name="name" hidden="0" type="field"/>
+          <column width="-1" name="type" hidden="0" type="field"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+    geom = feature.geometry()
+    control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable>
+        <field editable="1" name="abandoned:amenity"/>
+        <field editable="1" name="addr:city"/>
+        <field editable="1" name="addr:country"/>
+        <field editable="1" name="addr:housename"/>
+        <field editable="1" name="addr:housenumber"/>
+        <field editable="1" name="addr:postcode"/>
+        <field editable="1" name="addr:street"/>
+        <field editable="1" name="addr:suburb"/>
+        <field editable="1" name="alt_name"/>
+        <field editable="1" name="amenity"/>
+        <field editable="1" name="brand"/>
+        <field editable="1" name="brand:wikidata"/>
+        <field editable="1" name="building"/>
+        <field editable="1" name="building:levels"/>
+        <field editable="1" name="check_date"/>
+        <field editable="1" name="club"/>
+        <field editable="1" name="content"/>
+        <field editable="1" name="cuisine"/>
+        <field editable="1" name="denomination"/>
+        <field editable="1" name="description"/>
+        <field editable="1" name="drive_through"/>
+        <field editable="1" name="email"/>
+        <field editable="1" name="full_id"/>
+        <field editable="1" name="generator:method"/>
+        <field editable="1" name="generator:output:electricity"/>
+        <field editable="1" name="generator:source"/>
+        <field editable="1" name="generator:type"/>
+        <field editable="1" name="healthcare"/>
+        <field editable="1" name="internet_access"/>
+        <field editable="1" name="internet_access:fee"/>
+        <field editable="1" name="isced:level"/>
+        <field editable="1" name="layer"/>
+        <field editable="1" name="leisure"/>
+        <field editable="1" name="level"/>
+        <field editable="1" name="man_made"/>
+        <field editable="1" name="name"/>
+        <field editable="1" name="name:af"/>
+        <field editable="1" name="name:en"/>
+        <field editable="1" name="opening_hours"/>
+        <field editable="1" name="operator"/>
+        <field editable="1" name="operator:short"/>
+        <field editable="1" name="operator:type"/>
+        <field editable="1" name="operator:wikidata"/>
+        <field editable="1" name="osm_id"/>
+        <field editable="1" name="osm_type"/>
+        <field editable="1" name="outdoor_seating"/>
+        <field editable="1" name="phone"/>
+        <field editable="1" name="phone:1"/>
+        <field editable="1" name="phone:2"/>
+        <field editable="1" name="power"/>
+        <field editable="1" name="public_transport"/>
+        <field editable="1" name="railway"/>
+        <field editable="1" name="religion"/>
+        <field editable="1" name="residential"/>
+        <field editable="1" name="roof:levels"/>
+        <field editable="1" name="roof:shape"/>
+        <field editable="1" name="rooms"/>
+        <field editable="1" name="service_times"/>
+        <field editable="1" name="shelter_type"/>
+        <field editable="1" name="shop"/>
+        <field editable="1" name="smoking"/>
+        <field editable="1" name="sport"/>
+        <field editable="1" name="start_date"/>
+        <field editable="1" name="takeaway"/>
+        <field editable="1" name="tourism"/>
+        <field editable="1" name="type"/>
+        <field editable="1" name="website"/>
+        <field editable="1" name="wheelchair"/>
+      </editable>
+      <labelOnTop>
+        <field name="abandoned:amenity" labelOnTop="0"/>
+        <field name="addr:city" labelOnTop="0"/>
+        <field name="addr:country" labelOnTop="0"/>
+        <field name="addr:housename" labelOnTop="0"/>
+        <field name="addr:housenumber" labelOnTop="0"/>
+        <field name="addr:postcode" labelOnTop="0"/>
+        <field name="addr:street" labelOnTop="0"/>
+        <field name="addr:suburb" labelOnTop="0"/>
+        <field name="alt_name" labelOnTop="0"/>
+        <field name="amenity" labelOnTop="0"/>
+        <field name="brand" labelOnTop="0"/>
+        <field name="brand:wikidata" labelOnTop="0"/>
+        <field name="building" labelOnTop="0"/>
+        <field name="building:levels" labelOnTop="0"/>
+        <field name="check_date" labelOnTop="0"/>
+        <field name="club" labelOnTop="0"/>
+        <field name="content" labelOnTop="0"/>
+        <field name="cuisine" labelOnTop="0"/>
+        <field name="denomination" labelOnTop="0"/>
+        <field name="description" labelOnTop="0"/>
+        <field name="drive_through" labelOnTop="0"/>
+        <field name="email" labelOnTop="0"/>
+        <field name="full_id" labelOnTop="0"/>
+        <field name="generator:method" labelOnTop="0"/>
+        <field name="generator:output:electricity" labelOnTop="0"/>
+        <field name="generator:source" labelOnTop="0"/>
+        <field name="generator:type" labelOnTop="0"/>
+        <field name="healthcare" labelOnTop="0"/>
+        <field name="internet_access" labelOnTop="0"/>
+        <field name="internet_access:fee" labelOnTop="0"/>
+        <field name="isced:level" labelOnTop="0"/>
+        <field name="layer" labelOnTop="0"/>
+        <field name="leisure" labelOnTop="0"/>
+        <field name="level" labelOnTop="0"/>
+        <field name="man_made" labelOnTop="0"/>
+        <field name="name" labelOnTop="0"/>
+        <field name="name:af" labelOnTop="0"/>
+        <field name="name:en" labelOnTop="0"/>
+        <field name="opening_hours" labelOnTop="0"/>
+        <field name="operator" labelOnTop="0"/>
+        <field name="operator:short" labelOnTop="0"/>
+        <field name="operator:type" labelOnTop="0"/>
+        <field name="operator:wikidata" labelOnTop="0"/>
+        <field name="osm_id" labelOnTop="0"/>
+        <field name="osm_type" labelOnTop="0"/>
+        <field name="outdoor_seating" labelOnTop="0"/>
+        <field name="phone" labelOnTop="0"/>
+        <field name="phone:1" labelOnTop="0"/>
+        <field name="phone:2" labelOnTop="0"/>
+        <field name="power" labelOnTop="0"/>
+        <field name="public_transport" labelOnTop="0"/>
+        <field name="railway" labelOnTop="0"/>
+        <field name="religion" labelOnTop="0"/>
+        <field name="residential" labelOnTop="0"/>
+        <field name="roof:levels" labelOnTop="0"/>
+        <field name="roof:shape" labelOnTop="0"/>
+        <field name="rooms" labelOnTop="0"/>
+        <field name="service_times" labelOnTop="0"/>
+        <field name="shelter_type" labelOnTop="0"/>
+        <field name="shop" labelOnTop="0"/>
+        <field name="smoking" labelOnTop="0"/>
+        <field name="sport" labelOnTop="0"/>
+        <field name="start_date" labelOnTop="0"/>
+        <field name="takeaway" labelOnTop="0"/>
+        <field name="tourism" labelOnTop="0"/>
+        <field name="type" labelOnTop="0"/>
+        <field name="website" labelOnTop="0"/>
+        <field name="wheelchair" labelOnTop="0"/>
+      </labelOnTop>
+      <reuseLastValue>
+        <field name="abandoned:amenity" reuseLastValue="0"/>
+        <field name="addr:city" reuseLastValue="0"/>
+        <field name="addr:country" reuseLastValue="0"/>
+        <field name="addr:housename" reuseLastValue="0"/>
+        <field name="addr:housenumber" reuseLastValue="0"/>
+        <field name="addr:postcode" reuseLastValue="0"/>
+        <field name="addr:street" reuseLastValue="0"/>
+        <field name="addr:suburb" reuseLastValue="0"/>
+        <field name="alt_name" reuseLastValue="0"/>
+        <field name="amenity" reuseLastValue="0"/>
+        <field name="brand" reuseLastValue="0"/>
+        <field name="brand:wikidata" reuseLastValue="0"/>
+        <field name="building" reuseLastValue="0"/>
+        <field name="building:levels" reuseLastValue="0"/>
+        <field name="check_date" reuseLastValue="0"/>
+        <field name="club" reuseLastValue="0"/>
+        <field name="content" reuseLastValue="0"/>
+        <field name="cuisine" reuseLastValue="0"/>
+        <field name="denomination" reuseLastValue="0"/>
+        <field name="description" reuseLastValue="0"/>
+        <field name="drive_through" reuseLastValue="0"/>
+        <field name="email" reuseLastValue="0"/>
+        <field name="full_id" reuseLastValue="0"/>
+        <field name="generator:method" reuseLastValue="0"/>
+        <field name="generator:output:electricity" reuseLastValue="0"/>
+        <field name="generator:source" reuseLastValue="0"/>
+        <field name="generator:type" reuseLastValue="0"/>
+        <field name="healthcare" reuseLastValue="0"/>
+        <field name="internet_access" reuseLastValue="0"/>
+        <field name="internet_access:fee" reuseLastValue="0"/>
+        <field name="isced:level" reuseLastValue="0"/>
+        <field name="layer" reuseLastValue="0"/>
+        <field name="leisure" reuseLastValue="0"/>
+        <field name="level" reuseLastValue="0"/>
+        <field name="man_made" reuseLastValue="0"/>
+        <field name="name" reuseLastValue="0"/>
+        <field name="name:af" reuseLastValue="0"/>
+        <field name="name:en" reuseLastValue="0"/>
+        <field name="opening_hours" reuseLastValue="0"/>
+        <field name="operator" reuseLastValue="0"/>
+        <field name="operator:short" reuseLastValue="0"/>
+        <field name="operator:type" reuseLastValue="0"/>
+        <field name="operator:wikidata" reuseLastValue="0"/>
+        <field name="osm_id" reuseLastValue="0"/>
+        <field name="osm_type" reuseLastValue="0"/>
+        <field name="outdoor_seating" reuseLastValue="0"/>
+        <field name="phone" reuseLastValue="0"/>
+        <field name="phone:1" reuseLastValue="0"/>
+        <field name="phone:2" reuseLastValue="0"/>
+        <field name="power" reuseLastValue="0"/>
+        <field name="public_transport" reuseLastValue="0"/>
+        <field name="railway" reuseLastValue="0"/>
+        <field name="religion" reuseLastValue="0"/>
+        <field name="residential" reuseLastValue="0"/>
+        <field name="roof:levels" reuseLastValue="0"/>
+        <field name="roof:shape" reuseLastValue="0"/>
+        <field name="rooms" reuseLastValue="0"/>
+        <field name="service_times" reuseLastValue="0"/>
+        <field name="shelter_type" reuseLastValue="0"/>
+        <field name="shop" reuseLastValue="0"/>
+        <field name="smoking" reuseLastValue="0"/>
+        <field name="sport" reuseLastValue="0"/>
+        <field name="start_date" reuseLastValue="0"/>
+        <field name="takeaway" reuseLastValue="0"/>
+        <field name="tourism" reuseLastValue="0"/>
+        <field name="type" reuseLastValue="0"/>
+        <field name="website" reuseLastValue="0"/>
+        <field name="wheelchair" reuseLastValue="0"/>
+      </reuseLastValue>
+      <dataDefinedFieldProperties/>
+      <widgets/>
+      <previewExpression>"addr:housename"</previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+  </maplayers>
+</qlr>
